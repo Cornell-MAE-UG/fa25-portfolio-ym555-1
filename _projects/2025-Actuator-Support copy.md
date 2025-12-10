@@ -8,7 +8,12 @@ image: /assets/images/drawing.png
 
 For a class, we were asked to design a simple lift system using an actuator attached to the bar. Our design space was limited to 150cm long and 50cm tall. Our desgin requirements included a ridig bar, of a fixed length, 3 pin supports (2 of which needed to be mounted on the ground), and a linear actuator (picked from a list of catalog).
 
+
 ![part 1]({{ "/assets/images/portfolio-drawing.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
+
+Step 1:
+The objective of tis desgin was the create a system where the actuator can extended to the tallest vertical heught given the maximum weight it can carry within the constraints. The main constraint of the design included the 150cm x 50cm space I was limited to. 
+I conducted a member balance in static equilibirum to get the maximum weight the actuator can carry given the constraints. 
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/PP1.jpg' | relative_url }}"
