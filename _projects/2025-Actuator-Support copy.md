@@ -12,7 +12,7 @@ For a class, we were asked to design a simple lift system using an actuator atta
 ![part 1]({{ "/assets/images/portfolio-drawing.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
 
 Step 1:
-The objective of this design was the create a system where the actuator can extended to the tallest vertical heught given the maximum weight it can carry within the constraints. The main constraint of the design included the 150cm x 50cm space I was limited to. 
+The objective of this design was to create a system where the actuator can extended to the tallest vertical height given the maximum weight it can carry within the constraints. The main constraint of the design included the 150cm x 50cm space I was limited to. 
 I conducted a member balance in static equilibirum to get the maximum weight the actuator can carry given the constraints. 
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
