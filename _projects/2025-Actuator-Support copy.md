@@ -8,9 +8,13 @@ image: /assets/images/drawing.png
 
 For a class, we were asked to design a simple lift system using an actuator attached to the bar. Our design space was limited to 150cm long and 50cm tall. Our desgin requirements included a ridig bar, of a fixed length, 3 pin supports (2 of which needed to be mounted on the ground), and a linear actuator (picked from a list of catalog).
 
-![Shaded rendering of earlier version]({{ "/assets/images/portfolio-drawing.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
+![part 1]({{ "/assets/images/portfolio-drawing.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
 
+![part 2.1]({{ "/assets/images/PP1.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
 
+![part 2.2]({{ "/assets/images/PP2.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
+
+![part 2.3]({{ "/assets/images/PP3.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
 <br>
 <br>
 <br>
