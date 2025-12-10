@@ -11,7 +11,7 @@ For a class, we were asked to design a simple lift system using an actuator atta
 ![part 1]({{ "/assets/images/portfolio-drawing.jpg" | relative_url }}){: .inline-image-r style="width: 4000px"}
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/images/PP1.jpg"
+  <img src="assets/images/PP1.jpg"
        alt="Actuator support assembly, front view"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
@@ -20,7 +20,7 @@ For a class, we were asked to design a simple lift system using an actuator atta
 </figure>
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/images/PP2.jpg"
+  <img src="assets/images/PP2.jpg"
        alt="Actuator support side view"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
@@ -29,7 +29,7 @@ For a class, we were asked to design a simple lift system using an actuator atta
 </figure>
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/images/PP3.jpg"
+  <img src="assets/images/PP3.jpg"
        alt="Actuator support installed in test setup"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
