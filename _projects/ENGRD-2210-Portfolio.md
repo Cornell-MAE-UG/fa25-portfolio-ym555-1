@@ -7,6 +7,11 @@ image: /assets/images/Labeled.jpg
 ---
 
 For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred. 
+
+
+
+
+
 The setup of this system included:
 
 - Heat exchanger, where the energy transfer occurred
@@ -143,3 +148,9 @@ Assumptions I am making include:
 - Energy transfer is at a steady state, Ė = 0
 - Change in kinetic energy and potential energy is negligible, - ΔKE = 0 and ΔPE = 0
 
+Ė =Q̇+Ẇ +Σṁinθin-Σṁoutθout 
+0=0+0+Σṁinθin-Σṁoutθout
+Σṁinθin=Σṁoutθout
+Σṁinhin=Σṁouthout
+ṁin(hin, c+hin, h)=ṁout(hout, c+hout, h)
+cp(Tin, c+Tin, h)=cp(Tout, c+Tout, h)
