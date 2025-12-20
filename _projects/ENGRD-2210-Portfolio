@@ -1,0 +1,27 @@
+---
+layout: project
+title: Energy Transfer in Heat Exchanger
+description: Lab experiment of heat exhchanger
+technologies: Heat Exchanger, Water Pumps, Thermometer 
+image: /assets/images/Labeled.jpg 
+---
+
+For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred. 
+The setup of this system included:
+Heat exchanger, where the energy transfer occurred
+Pumps, which moved the liquid up through the pipes 
+Pipes, which held the liquid that moved from the initial container through the heat exchanger, then to the final tub
+Cold water, dyed blue
+Hot water, dyed red
+Containers to hold the water
+
+Here is a visual setup of the system:
+
+<figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
+  <img src="{{ '/assets/images/Labeled.jpg' | relative_url }}"
+       alt="Actuator support assembly, front view"
+       style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+    Figure 1. Calcs.
+  </figcaption>
+</figure>
