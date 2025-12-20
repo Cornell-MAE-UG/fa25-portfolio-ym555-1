@@ -6,11 +6,9 @@ technologies: Heat Exchanger, Water Pumps, Thermometer
 image: /assets/images/Labeled.jpg 
 ---
 
-For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred. 
+For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred.
 
-
-
-
+<div style="clear: both;"></div>
 
 The setup of this system included:
 
