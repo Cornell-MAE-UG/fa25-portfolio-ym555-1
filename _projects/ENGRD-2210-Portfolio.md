@@ -53,7 +53,7 @@ System diagram of the counterflow (Constant Volume):
        alt="System Diagram of Counter Flow with directions"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
-    Figure 2. Counter Flow System Diagram.
+    Figure 3. Counter Flow System Diagram.
   </figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Here is a visual setup of parallel flow:
        alt="Directions of liquids in Parallel Flow"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
-    Figure 2. Parallel Flow Setup.
+    Figure 4. Parallel Flow Setup.
   </figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ System diagram of the parallel flow (Constant Volume):
        alt="System Diagram of Parallel Flow with directions"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
-    Figure 2. Parallel Flow System Diagram.
+    Figure 5. Parallel Flow System Diagram.
   </figcaption>
 </figure>
 
@@ -146,9 +146,11 @@ Assumptions I am making include:
 - Energy transfer is at a steady state, Ė = 0
 - Change in kinetic energy and potential energy is negligible, - ΔKE = 0 and ΔPE = 0
 
-Ė =Q̇+Ẇ +Σṁinθin-Σṁoutθout 
-0=0+0+Σṁinθin-Σṁoutθout
-Σṁinθin=Σṁoutθout
-Σṁinhin=Σṁouthout
-ṁin(hin, c+hin, h)=ṁout(hout, c+hout, h)
-cp(Tin, c+Tin, h)=cp(Tout, c+Tout, h)
+<figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
+  <img src="{{ '/assets/images/Energy-Calcs.png' | relative_url }}"
+       alt="Energy Balance Equation of Heat Exchanger System"
+       style="width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+    Figure 6. Energy Balance.
+  </figcaption>
+</figure>
