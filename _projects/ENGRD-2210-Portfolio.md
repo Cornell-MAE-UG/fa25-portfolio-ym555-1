@@ -148,7 +148,7 @@ Assumptions I am making include:
 - No external heat transfer, Q̇ = 0
 - No shaft work, Ẇ = 0
 - Energy transfer is at a steady state, Ė = 0
-- Change in kinetic energy and potential energy is negligible, - ΔKE = 0 and ΔPE = 0
+- Change in kinetic energy and potential energy is negligible; ΔKE = 0 and ΔPE = 0
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Energy-Calcs.png' | relative_url }}"
