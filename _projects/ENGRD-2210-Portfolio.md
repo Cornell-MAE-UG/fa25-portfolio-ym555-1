@@ -20,7 +20,7 @@ Here is a visual setup of the system:
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Labeled.jpg' | relative_url }}"
-       alt="Actuator support assembly, front view"
+       alt="Set up of entire system with labeled devices"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
     Figure 1. Labeled Devices.
@@ -35,7 +35,7 @@ Here is a visual setup of the design and the direction of flow for each water:
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Counter.jpg' | relative_url }}"
-       alt="Actuator support assembly, front view"
+       alt="Directions the liquids in Counter Flow"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
     Figure 2. Counter Flow Setup.
@@ -47,7 +47,7 @@ System diagram of the counterflow (Constant Volume):
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Counter-2.png' | relative_url }}"
-       alt="Actuator support assembly, front view"
+       alt="System Diagram of Counter Flow with directions"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
     Figure 2. Counter Flow System Diagram.
@@ -86,7 +86,7 @@ Here is a visual setup of parallel flow:
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Parallel.jpg' | relative_url }}"
-       alt="Actuator support assembly, front view"
+       alt="Directions of liquids in Parallel Flow"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
     Figure 2. Parallel Flow Setup.
@@ -98,7 +98,7 @@ System diagram of the parallel flow (Constant Volume):
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
   <img src="{{ '/assets/images/Parallel-2.png' | relative_url }}"
-       alt="Actuator support assembly, front view"
+       alt="System Diagram of Parallel Flow with directions"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
     Figure 2. Parallel Flow System Diagram.
