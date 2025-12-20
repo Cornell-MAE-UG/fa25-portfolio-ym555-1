@@ -46,7 +46,7 @@ Cold water and hot water are entering and leaving on opposite sides. Cold water 
 System diagram of the counterflow (Constant Volume):
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
-  <img src="{{ '/assets/images/Counter-2.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/Counter-2.png' | relative_url }}"
        alt="Actuator support assembly, front view"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
@@ -97,7 +97,7 @@ Cold water and hot water are entering from the top in this view, and exiting thr
 System diagram of the parallel flow (Constant Volume):
 
 <figure style="max-width: 700px; margin: 1.5rem auto; text-align: center;">
-  <img src="{{ '/assets/images/Parallel-2.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/Parallel-2.png' | relative_url }}"
        alt="Actuator support assembly, front view"
        style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
