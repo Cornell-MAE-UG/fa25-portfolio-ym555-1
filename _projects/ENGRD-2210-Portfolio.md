@@ -63,22 +63,29 @@ Hot water is entering the 3 inlet and leaving through the 4 outlet.
 
 ### Counterflow, trial 1
 The cold (blue) water’s initial temperature was measured at 3.9 °C using a thermometer. The hot (red) water’s initial temperature was set to 35 °C using an immersion heater, but measured at 34.9 °C with the thermometer. 
+
 Initial Blue Temperature 1 (cold): 3.9 °C
+
 Initial Red Temperature 1 (hot): 34.9 °C
 
 We let the flow continue until half of the water in each container had passed through the heat exchanger.
 After the heat exchanger, the final temperature of each water was:
+
 Final Blue Temperature 1: 21.5 °C
+
 Final Red Temperature 1: 17.7  °C
 
 We found it interesting that the final temperature of the original cold (blue) water was higher than that of the final original hot (red) water. 
 
 ### Counterflow, trial 2
 To confirm our findings, we conducted a second trial of this design. 
+
 Initial Blue Temperature 2 (cold): 7.6 °C
+
 Initial Red Temperature 2 (hot): 34.6  °C
 
 Final Blue Temperature 2: 22.8 °C
+
 Final Red Temperature 2: 19.6 °C
 
 The result of this trial was the same as the first one. Parallel flow in a heat exchanger results in the initially cold fluid reaching a higher temperature than the final initially hot fluid. We tested parallel flow in the heat exchanger to compare its outcome. 
@@ -115,19 +122,24 @@ Hot water is flipped compared to counterflow, entering the 4 input and leaving t
 
 ### Parallel flow, Trial 1
 We conducted the rest of the experiment and collected data in the same way as in the counterflow experiment. 
+
 Initial Blue Temperature 3 (cold): 5.4 °C
+
 Initial Red Temperature 3 (hot): 35 °C
 
 Final Blue Temperature 3: 17.8 °C
+
 Final Red Temperature 3: 23.3 °C
 
 There is a difference in the outcome between parallel flow and counterflow. The final temperature of the originally hot water is now warmer than that of the final originally cold water. Like in counterflow, we repeated the experiment to verify the results. 
 
 ### Parallel flow, Trial 2:
 Initial Blue Temperature 4 (cold): 7.3 °C
+
 Initial Red Temperature 4 (hot): 34.8 °C
 
 Final Blue Temperature 4: 18.5 °C
+
 Final Red Temperature 4: 21.9 °C
 
 The result in this trial was the same as the previous trial. The final temperature of initially hot water is higher than that of the initial cold water in parallel flow. 
