@@ -6,7 +6,8 @@ technologies: Heat Exchanger, Water Pumps, Thermometer
 image: /assets/images/Labeled.jpg 
 ---
 
-For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred.
+For this assignment, I used the heat exchanger lab as a real-world instance to show how energy is transferred. The device used in this experiment is a small-scale liquid–liquid counterflow/parallel-flow heat exchanger operating under steady-flow conditions.
+
 
 <div style="clear: both;"></div>
 
@@ -137,6 +138,9 @@ The result in this trial was the same as the previous trial. The final temperatu
 Counterflow is a more efficient design than parallel flow. Now comes the question, why? 
 In parallel flow, the hot and cold water enter and exit the heat exchanger in the same direction. The heat from the hot water transfers to the cold water consistently throughout, and by the time they exit, the cold water reaches its maximum temperature. However, this is not the case in counterflow. Since the hot and cold water enter and exit the heat exchanger in opposite directions, the cold water at the output is exposed to the hot water at its almost initial temperature. This increases the cold water beyond that maximum temperature. The ‘shock’ from the hot water causes the cold final temperature to be warmer than that of the initially hot water. 
 
+While the analysis assumes no heat loss to the surroundings, in practice some energy loss occurred due to convection to ambient air and imperfect insulation. This likely contributed to discrepancies between the hot-side and cold-side energy calculations.
+
+
 ## Energy Balance Equation
 
 In this experiment, I am making assumptions to simplify the energy balance equation. 
@@ -154,3 +158,17 @@ Assumptions I am making include:
     Figure 6. Energy Balance.
   </figcaption>
 </figure>
+
+### Energy Balance Application
+
+For a steady-state heat exchanger with no shaft work and negligible kinetic and potential energy changes, the steady-flow energy balance reduces to:
+
+ṁₕ cₚ (Tₕ,in − Tₕ,out) = ṁ𝑐 cₚ (T𝑐,out − T𝑐,in)
+
+Assuming water properties with cₚ ≈ 4.18 kJ/kg·K and equal mass flow rates, the energy transferred from the hot stream in Counterflow Trial 1 is:
+
+Q̇ₕ = ṁ · 4.18 · (34.9 − 17.7)
+
+Q̇𝑐 = ṁ · 4.18 · (21.5 − 3.9)
+
+The calculated heat transfer rates for the hot and cold streams were approximately equal in magnitude, which is consistent with the First Law of Thermodynamics for a steady-flow system. Within experimental uncertainty, the energy lost by the hot water matched the energy gained by the cold water, indicating conservation of energy within the heat exchanger. Any small discrepancies can be attributed to heat loss to the surroundings, measurement uncertainty in temperature readings, and assumptions such as negligible heat transfer to the environment.
