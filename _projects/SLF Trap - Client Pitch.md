@@ -3,7 +3,7 @@ layout: project
 title: Passive SLF Pre-harvest Trap for NYS Industrial Vineyards
 description: Team Buzzkill — Cornell CALS Extension / E&J Gallo Winery / National Grape
 technologies: [Prototyping, Acoustics, Chemical Lures, Integrated Design]
-image: assets/images/killflies.webp
+image: assets/images/killflies.jpeg
 ---
 
 For this project, we are developing a **passive, pre-harvest trap** to help **New York State industrial vineyards** keep harvested grapes clear of **spotted lanternflies (SLFs)** while minimizing additional labor.
